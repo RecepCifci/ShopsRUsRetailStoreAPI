@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopsRUsRetailStoreAPI", "ShopsRUsRetailStoreAPI\ShopsRUsRetailStoreAPI.csproj", "{0529F7FB-1CB5-475C-A2C6-5359EA626532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopsRUsRetailStoreAPI.Test", "ShopsRUsRetailStoreAPI.Test\ShopsRUsRetailStoreAPI.Test.csproj", "{2C762299-2F03-486E-90CF-F55B59D3FD0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0529F7FB-1CB5-475C-A2C6-5359EA626532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0529F7FB-1CB5-475C-A2C6-5359EA626532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0529F7FB-1CB5-475C-A2C6-5359EA626532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0529F7FB-1CB5-475C-A2C6-5359EA626532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C762299-2F03-486E-90CF-F55B59D3FD0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C762299-2F03-486E-90CF-F55B59D3FD0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C762299-2F03-486E-90CF-F55B59D3FD0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C762299-2F03-486E-90CF-F55B59D3FD0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF34D23D-58BA-48D0-A52E-C2BF664D639B}
+	EndGlobalSection
+EndGlobal
